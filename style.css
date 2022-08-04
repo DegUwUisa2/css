@@ -1,0 +1,70 @@
+.h1,h2,h3{
+    font-weight: 700;
+    color: black;
+    
+    }
+    
+    
+    
+    
+    
+    
+    table {
+    width: 50%;
+    
+    border:5px solid green;
+    margin-bottom: 20px;
+    
+    }
+    td, th {
+    padding: 10px;
+    }
+    td {
+    border: 1px solid grey;
+    
+    }
+    body {
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    ;}
+    .nomber1 {
+    border-radius: 30px;
+    }
+    .nombertwo {
+    width: 100%;
+    }
+    .nomber3 {
+    
+    padding: 25px;
+    
+    border:5px solid rgb(37, 37, 37);
+    }
+    .card {
+    
+    margin-bottom: 20px;
+    border-radius: 50px;
+    }
+    .card2 {
+    background:rgb(3, 255, 158);
+    border-radius: 50px;
+    margin-right: 1330px;
+    }
+    
+    .parallax {
+    background-image: url(photo22.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .contente {
+        height: 1000px;
+        font-size: 40px;
+    }
+    .card4 {
+    background: aqua;
+    border-radius: 50px;
+    margin-right: 1300px;
+    }
+    
